@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Skills](https://skillicons.dev/icons?i=ansible,aws,azure,bash,c,cpp,css,docker,eclipse,git,grafana,html,java,jquery,js,kubernetes,linux,mysql,nginx,nodejs,perl,php,postgres,powershell,py,regex,vim,wordpress&perline=3)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ansible,aws,azure,bash,c,cpp,css,docker,eclipse,git,grafana,html,java,jquery,js,kubernetes,linux,mysql,nginx,nodejs,perl,php,postgres,powershell,py,regex,vim,wordpress&perline=4)](https://skillicons.dev)
 
 <!--
 **niobyte/niobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
